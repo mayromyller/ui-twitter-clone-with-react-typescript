@@ -1,7 +1,6 @@
 <h1 align="center">
 UI Clone Twitter
 </h1>
-<hr>
 
 ## Techs
 
